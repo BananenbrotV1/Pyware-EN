@@ -1,6 +1,3 @@
-
-Here is the English translation:
-
 Hey! To use Pyware, you need to install Python (from Python.org) and a few modules. Simply run the installer.cmd. This will open a command prompt window where you type auto-py-to-exe. Then, select Pyware.py at the top. In the same window, under "Additional Files," select the grabber.py and Admin.manifest files. The rest of the settings can be configured as you like.
 
 Have fun!
